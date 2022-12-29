@@ -1,0 +1,75 @@
+https://docs.google.com/spreadsheets/d/1TJ8-QPsugSOj_xUYkbwX4n2W1pqUxj5Ahi0fvsXNhuo/edit#gid=42985630 -----attendance
+
+
+
+https://docs.google.com/spreadsheets/d/1ZK0Gs10NceHxv-Q6g9jTie5nwUMj7-1um7RYNUT_aXA/edit#gid=0
+https://meet.google.com/haq-jyho-amv  --training link
+
+https://drive.google.com/drive/folders/11vvQELlcqfIHYA_ysEZngl99Vis-Xr0h
+
+https://mvnrepository.com/
+<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa -->
+
+
+
+
+6th December --Tuesday
+https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html
+CharanKumar Kamichetty1:02 PM
+https://docs.google.com/document/d/1OAqutQTI50CF8luHJkCnPM0YVYBqfabCZ9BSOaQkqK4/edit#
+CharanKumar Kamichetty1:23 PM
+1. https://hansiealoj.github.io/   --- By Hansie.
+2. https://kingsdesigning.netlify.app/   -- By Onkar
+3. https://tanisha-travelguide.netlify.app/  -- By Tanisha.
+4. https://bhanup25.github.io/Craving   - By Bhanu Priya
+5. https://icy-licious.netlify.app/#home – By Shikha 
+6. https://mp-tour.netlify.app/ – Sneha Jain.
+4. https://apoorv-web-assignment.netlify.app/  -- Apporv.
+
+https://reactjs.org/docs/rendering-elements.html
+
+------------------------------------------------------
+7th December
+https://docs.mulesoft.com/mule-runtime/3.9/streaming
+
+
+
+
+https://drive.google.com/drive/folders/1G9SrtwrQbHdVzUWXbVC3Ddu5c5L48Uyc
+https://docs.google.com/document/d/1OAqutQTI50CF8luHJkCnPM0YVYBqfabCZ9BSOaQkqK4/edit#heading=h.bh6ggcmh246q
+
+
+
+
+
+
+
+
+
+
+https://springframework.guru/running-spring-boot-in-a-docker-container/
+https://docker-curriculum.com/
+
+1. Donwload docker dekstop for windows.
+2. Install it.
+3. Create Administrator UID and PWD.
+4. Login into http://hub.docker.com --> provide created admin uid and pwd.
+5. Double click on Docker hub icon on dekstop --> With docker hub credentils, docker desktop is automatically logged.
+4. Open command prompt and give the command docker version.
+
+Perform the following operations.
+1. Get All the policies.... 
+
+2. Get the policy by policID.
+
+3. Get eh policy by Policy Holders Name --- Sorted on Name.
+
+4. Get the policies based on city... 
+
+5. Insert a new policy -- Test it with postman...
+
+6. Update a policy.
+
+7. Delete a policy by its policy no.
+
+8. Update only few fields of the policy rather than the entire object.
